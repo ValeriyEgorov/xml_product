@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product price="777" amount_available="11">
+    <book title="Приключения Тома Сойера" author_name="Марк"></book>
+  </product>
+  <product price="1800" amount_available="5">
+    <book title="Агата Кристи" author_name="Эркюль Пуаро"></book>
+  </product>
+  <product price="1789" amount_available="19">
+    <film title="Обучение английскому языку" genre="Роман" year="2001" producer="Кто-то"></film>
+  </product>
+  <product price="77" amount_available="155">
+    <disc title="Русские песни" genre="народные" year="2019" producer="Русский народ"></disc>
+  </product>
+</products>
